@@ -21,7 +21,7 @@ hand full of cool features such as:
 * guides such as :
     * [rules](data/rules.txt) which teaches the player the basic
 	   concepts of the game
-    * [help](data/help.txt) which serves as a guide for using all the
+    * [help](help.txt) which serves as a guide for using all the
 	   commands that are featured in the main manu section of the game
 
 
