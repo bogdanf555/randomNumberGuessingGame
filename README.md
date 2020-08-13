@@ -45,7 +45,7 @@ the game.
 
 ## Contributing
 
-I am open for contributions, if you notice any bugs or have any ideas or cool 
+I am open to contributions, if you notice any bugs or have any ideas or cool 
 features to add in the game, please feel free to make a pull request.
 
 ## License
