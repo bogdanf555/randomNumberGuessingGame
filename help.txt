@@ -1,0 +1,30 @@
+******************************************************************************
+While in the main manu a player can make use of a hand full of commands:
+    
+    play            - starts the game with the difficulty that is currently 
+	              located in data\difficulty.txt file
+    
+    help            - displays on the screen this guide
+    
+    rules           - displays on the screen the set of rules
+                      of the game, located at data\rules.txt
+
+    highscore       - displays on the screen the desired
+		      leaderboard table, that coresponds to the difficulty
+                      the player specifies : easy, normal, hard, impossible
+
+    difficulty      - displays on the screen the current difficulty (easy,
+		      normal, hard, impossible) and gives the player the 
+                      opportunity to change it by typing the command "change",
+		      or "exit" otherwise, to get back to the main menu
+
+    reset           - erases all the registered data inside the highscore
+                      tables (careful : recover is not possible)
+
+    clear           - flushes the hole text printed by the game inside the
+                      terminal
+    
+    exit 	    - terminates the game if used in main manu, redirects the
+                      player to the main manu if it is used on difficulty manu
+                      or on the replay interrogation after a round is finished
+******************************************************************************

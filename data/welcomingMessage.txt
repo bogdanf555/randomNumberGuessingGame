@@ -1,0 +1,11 @@
+***********************************************
+
+Greetings traveler! It's good to see you again!
+Come sit at my keyboard and let's play 
+The Random Number Guessing Game.
+
+p.s. If you are new to the game it will help
+checking out the help and rules sections of the
+game that can be accessed from the main menu.
+
+***********************************************

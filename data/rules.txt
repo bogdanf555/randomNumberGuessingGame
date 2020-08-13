@@ -1,0 +1,22 @@
+*************************************************************************
+	So my friend,
+    
+	    The Random Number Guessing Game is always played by
+	the same 2 players : yourself my dear and I, your
+	good old friend, the computer. :)
+	    The game basically consists of me choosing a random
+	number and then giving you a limited number of attempts 
+	to guess it. If you succeed to reveal the number in less
+	or equal number of attempts to those I gave you, then
+	you'll win, otherwise unfortunetely, you'll lose.
+	    In addition, in order to make your life way easier, 
+	when the game starts I will tell you the number of 
+	attempts you have available for guessing and I'll give you
+	an interval from which I choose the secret number, the 
+	length of this interval depending on which difficulty you 
+	choose for yourself. I will tell you after every failed 
+	attempt if the number you have to guess is lower or greater
+	that the one you gave.
+	    
+	    Good luck!
+*************************************************************************
